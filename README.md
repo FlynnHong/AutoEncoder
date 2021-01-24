@@ -31,10 +31,12 @@ System version
  
  Difficulties:
      
-     Sound data is so large.. 
-     Recommend to put in less data.
+ Sound data is so large.. 
+ Recommend to put in less data.
      
+ Dataset
+ https://zenodo.org/record/3678171#.YA1urMht9PY
  
- 
+ I used dev_data_fan.
  
  
