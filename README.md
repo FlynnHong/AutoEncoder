@@ -34,7 +34,7 @@ Data file shape : .wav (10s)
  Recommend to put in less data.
      
  #Dataset
- <a href="https://zenodo.org/record/3678171#.YA1urMht9PY"></a>
+ https://zenodo.org/record/3678171#.YA1urMht9PY
  
  I used dev_data_fan.
  
