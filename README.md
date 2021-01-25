@@ -1,12 +1,12 @@
-# Pytorch-Autoencoder-
+### Pytorch-Autoencoder-
 
-This model can use resample sound data.
+#This model can use resample sound data.
 
 Data file shape : .wav (10s)
 
 
 
-System version
+#System version
  - Python : 3.8+ 
  - conda : 4.9.1
  - Spyder : 4.1.5
@@ -28,17 +28,17 @@ System version
  
  
  
- Difficulties:
+ #Difficulties:
      
  Sound data is so large.. 
  Recommend to put in less data.
      
- Dataset
- https://zenodo.org/record/3678171#.YA1urMht9PY
+ #Dataset
+ <a href="https://zenodo.org/record/3678171#.YA1urMht9PY"></a>
  
  I used dev_data_fan.
  
- Result:
+ #Result:
  
     runfile('C:/train1/autotrain.py', wdir='C:/train1')
     0%|          | 0/50 [00:00<?, ?it/s]AutoEncoder(
@@ -80,6 +80,9 @@ System version
     98%|█████████▊| 49/50 [04:05<00:04,  4.93s/it]0.008866294578183442
     100%|██████████| 50/50 [04:10<00:00,  5.02s/it]0.011111363882082514
 
-if you want to save, 
+#if you want to save, go to console window
+
+    >>> t1 = np.array(list(output))
+    >>> np.save('address', output)
 
 
